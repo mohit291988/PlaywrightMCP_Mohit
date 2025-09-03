@@ -1,0 +1,137 @@
+# Page snapshot
+
+```yaml
+- navigation:
+  - link "WebdriverUniversity.com (New Approach To Learning)":
+    - /url: index.html
+- 'heading "🚀 Unlock Your Potential: Mega Sale – Up to 89% Off 🚀" [level=1]'
+- paragraph: ⏰ Limited-time offer — Grab your course before it expires!
+- paragraph: 👨‍🏫 90,000+ students • 10,000+ reviews • Learn from a Senior SDET
+- link "Master Generative AI for Software Testing":
+  - /url: https://www.udemy.com/course/master-generative-ai-for-software-testing-manual-to-auto/?couponCode=F29D0CE43FCC23CDA6FF
+- link "API Testing with Postman":
+  - /url: https://www.udemy.com/course/the-api-master-class-testing-in-detail-using-postman/?couponCode=FC6B9B5F315F6ACE0546
+- link "Playwright with TypeScript":
+  - /url: https://www.udemy.com/course/playwright-with-cucumber-bdd-typescript-beginner-to-pro/?couponCode=B64C4A6457652D0B8479
+- link "Playwright with Java":
+  - /url: https://www.udemy.com/course/playwright-cucumber-bdd-with-java-novice-to-pro/?couponCode=E3A736665F33AE06395A
+- link "Cypress with Cucumber BDD":
+  - /url: https://www.udemy.com/course/cypress-with-cucumber-bdd-beginner-to-expert-in-9-hours/?couponCode=DC587A3E8B3D38418183
+- link "Complete Cypress v13 Course":
+  - /url: https://www.udemy.com/course/cypress-io-master-class/?couponCode=245379401CE32EAF3240
+- link "Complete WebdriverIO Course":
+  - /url: https://www.udemy.com/course/automation-testing-javascript-webdriverio-selenium-more/?couponCode=D720B1F3EF93E6E8ABBD
+- link "Selenium WebDriver 4":
+  - /url: https://www.udemy.com/course/selenium-webdriver-4-new-features-in-detail/?couponCode=66CF8E69410731D714B8
+- link "Mastering Locators":
+  - /url: https://www.udemy.com/course/mastering-locators/?couponCode=80BEADBF21A9154411B8
+- link "Selenium + Cucumber + Java":
+  - /url: https://www.udemy.com/course/cucumber-bdd-selenium-java-complete-automation-course/?couponCode=A7A9D5E75B9E9AE1A88A
+- link "CONTACT US Contact Us Form Need to perfect your Webdriver Cucumber skills? BDD also referred to as ‘Behaviour Driven Development’ is a great way to test and simulate different user scenarios, for example what happens if you try to use the following contact us form (Click the button to access the challenge) to simulate user(s) inputting different types of data or how about attempting to simulate a user submitting information to the form using an email address in the incorrect ‘Mandatory’ format?":
+  - /url: Contact-Us/contactus.html
+  - heading "CONTACT US" [level=1]
+  - heading "Contact Us Form" [level=4]
+  - paragraph: Need to perfect your Webdriver Cucumber skills? BDD also referred to as ‘Behaviour Driven Development’ is a great way to test and simulate different user scenarios, for example what happens if you try to use the following contact us form (Click the button to access the challenge) to simulate user(s) inputting different types of data or how about attempting to simulate a user submitting information to the form using an email address in the incorrect ‘Mandatory’ format?
+- link "LOGIN PORTAL Login Portal Are you really an actually user of webdriveruniversity.com? Do you really have a valid username and password? Cucumber enables us to validate multiple sets of username(s) and password(s) with ease by using scenarios outlines and examples! Give the challenge a try!":
+  - /url: Login-Portal/index.html
+  - heading "LOGIN PORTAL" [level=1]
+  - heading "Login Portal" [level=4]
+  - paragraph: Are you really an actually user of webdriveruniversity.com? Do you really have a valid username and password? Cucumber enables us to validate multiple sets of username(s) and password(s) with ease by using scenarios outlines and examples! Give the challenge a try!
+- link "BUTTON CLICKS WebElement Click, JavaScript Click, Actions Move & Click! Simulating various types of user click(s) can be a very tricky task within Selenium Webdriver, there are many types of clicks available and it’s also important to learn and test for yourselves the importance of each type of click. Why not attempt the challenge that awaits, can you perform all the required webdriver clicks?":
+  - /url: Click-Buttons/index.html
+  - heading "BUTTON CLICKS" [level=1]
+  - heading "WebElement Click, JavaScript Click, Actions Move & Click!" [level=4]
+  - paragraph: Simulating various types of user click(s) can be a very tricky task within Selenium Webdriver, there are many types of clicks available and it’s also important to learn and test for yourselves the importance of each type of click. Why not attempt the challenge that awaits, can you perform all the required webdriver clicks?
+- link "TO DO LIST Task1 [ ] - Task2 [ ] - Task3 [ ] - Task4 [ ] - Task5 [ ] Have you perfected the craft of combining multiple user actions in one? The following ‘To Do List’ can be a tricky one! Luckily Selenium webdriver comes packed within many types of features and libraries which can be very useful! Ready to attempt this challenge? Can you use Selenium Webdrivers bespoke send keys method to add to the existing list? Or even delete an existing item from the list?":
+  - /url: To-Do-List/index.html
+  - heading "TO DO LIST" [level=1]
+  - heading "Task1 [ ] - Task2 [ ] - Task3 [ ] - Task4 [ ] - Task5 [ ]" [level=4]
+  - paragraph: Have you perfected the craft of combining multiple user actions in one? The following ‘To Do List’ can be a tricky one! Luckily Selenium webdriver comes packed within many types of features and libraries which can be very useful! Ready to attempt this challenge? Can you use Selenium Webdrivers bespoke send keys method to add to the existing list? Or even delete an existing item from the list?
+- link "PAGE OBJECT MODEL Design a robust framework which is maintainable and reusable! Page object model (POM) is a fantastic design pattern which can be used to construct the architecture of your framework(s); enabling the developer to replicate specific pages of a given website. Pages can be modelled into unique classes (Java classes…) in the process enabling test framework(s) to become more maintainable, flexible and reusable. Can you use the concepts of Page Object Modelling to model the pages of the website in this challenge?":
+  - /url: Page-Object-Model/index.html
+  - heading "PAGE OBJECT MODEL" [level=1]
+  - heading "Design a robust framework which is maintainable and reusable!" [level=4]
+  - paragraph: Page object model (POM) is a fantastic design pattern which can be used to construct the architecture of your framework(s); enabling the developer to replicate specific pages of a given website. Pages can be modelled into unique classes (Java classes…) in the process enabling test framework(s) to become more maintainable, flexible and reusable. Can you use the concepts of Page Object Modelling to model the pages of the website in this challenge?
+- link "ACCORDION & TEXT AFFECTS (APPEAR & DISAPPEAR) Click on one of the accordion panels! Do you see any text? Accordions are great way to toggle between hiding and showing large amount of content; waiting for specific items to appear such as text can be quite tricky! I suggest practising wait commands here!":
+  - /url: Accordion/index.html
+  - heading "ACCORDION & TEXT AFFECTS (APPEAR & DISAPPEAR)" [level=1]
+  - heading "Click on one of the accordion panels! Do you see any text?" [level=4]
+  - paragraph: Accordions are great way to toggle between hiding and showing large amount of content; waiting for specific items to appear such as text can be quite tricky! I suggest practising wait commands here!
+- link "DROPDOWN, CHECKBOXE(S) & RADIO BUTTON(S) The choice is yours! Dropdown lists, check boxes and radio button are very common across websites now days and there are a wide range of options to select from. Try to handle each of the options listed within the challenge that awaits, it’s important to practise, practise and practise in order to hone your selenium webdriver skills.":
+  - /url: Dropdown-Checkboxes-RadioButtons/index.html
+  - heading "DROPDOWN, CHECKBOXE(S) & RADIO BUTTON(S)" [level=1]
+  - heading "The choice is yours!" [level=4]
+  - paragraph: Dropdown lists, check boxes and radio button are very common across websites now days and there are a wide range of options to select from. Try to handle each of the options listed within the challenge that awaits, it’s important to practise, practise and practise in order to hone your selenium webdriver skills.
+- link "AJAX LOADER Wait..... for the Ajax Loader Webdriver waits can be a very very tricky task to understand let alone attempt to implement! All automation testers must perfect the craft of webdriver waits! It’s not only important to implement the code required to practise the necessary waits, it’s essential that you also understand the different types of waits which are available. The following challenge will present an Ajax load screen however are you capable of implementing webdriver wait(s) to click on the button which will appear once the Ajax loader vanishes?":
+  - /url: Ajax-Loader/index.html
+  - heading "AJAX LOADER" [level=1]
+  - heading "Wait..... for the Ajax Loader" [level=4]
+  - paragraph: Webdriver waits can be a very very tricky task to understand let alone attempt to implement! All automation testers must perfect the craft of webdriver waits! It’s not only important to implement the code required to practise the necessary waits, it’s essential that you also understand the different types of waits which are available. The following challenge will present an Ajax load screen however are you capable of implementing webdriver wait(s) to click on the button which will appear once the Ajax loader vanishes?
+- link "ACTIONS Can you really handle this challenge? The webdriver actions class enables the developer to perform a wide range of distinct user actions whether it’s trying to perform double click(s), click and hold(s) or even attempting to drag and drop a specific element(s), have fun with the following challenge! I know I would 😊":
+  - /url: Actions/index.html
+  - heading "ACTIONS" [level=1]
+  - heading "Can you really handle this challenge?" [level=4]
+  - paragraph: The webdriver actions class enables the developer to perform a wide range of distinct user actions whether it’s trying to perform double click(s), click and hold(s) or even attempting to drag and drop a specific element(s), have fun with the following challenge! I know I would 😊
+- link "SCROLLING AROUND Scrolling Around... Sometimes we need to scroll to a specific element on a webpage before we conduct specific actions to that element. Let’s say the developer needs to simulate a user click but the element is positioned at the bottom of the page? Luckily for us we can use custom JavaScript code to scroll too specific coordinates of a page or even scroll directly to a specific element which is in an awkward position of a website.":
+  - /url: Scrolling/index.html
+  - heading "SCROLLING AROUND" [level=1]
+  - heading "Scrolling Around..." [level=4]
+  - paragraph: Sometimes we need to scroll to a specific element on a webpage before we conduct specific actions to that element. Let’s say the developer needs to simulate a user click but the element is positioned at the bottom of the page? Luckily for us we can use custom JavaScript code to scroll too specific coordinates of a page or even scroll directly to a specific element which is in an awkward position of a website.
+- link "POPUP & ALERTS Close those annoying Popup & Alerts! At times Popup and alerts can be quite annoying especially when they can impact the results of your automation test scripts. There are various types of popups and alerts which are present such as ‘JavaScript’ alerts or even ‘Modal’ popups. Once you understand the way to handle such popups and alerts the process can be straightforward — provided you keep practising 😊":
+  - /url: Popup-Alerts/index.html
+  - heading "POPUP & ALERTS" [level=1]
+  - heading "Close those annoying Popup & Alerts!" [level=4]
+  - paragraph: At times Popup and alerts can be quite annoying especially when they can impact the results of your automation test scripts. There are various types of popups and alerts which are present such as ‘JavaScript’ alerts or even ‘Modal’ popups. Once you understand the way to handle such popups and alerts the process can be straightforward — provided you keep practising 😊
+- link "IFRAME Practise with inline frame(s) An inline frame is used to embed another document within the current HTML document. If the developer has no knowledge of ‘IFrame(s)’ or doesn’t know how to handle them correctly, it can be quite frustrating. To handle IFrames we need to use bespoke code which in turn will enable the developer to toggle between the main HTML page and the IFrame itself. Practise makes perfect — attempt the challenge for yourself. It’s fairly easy once you get the hang of it.":
+  - /url: IFrame/index.html
+  - heading "IFRAME" [level=1]
+  - heading "Practise with inline frame(s)" [level=4]
+  - paragraph: An inline frame is used to embed another document within the current HTML document. If the developer has no knowledge of ‘IFrame(s)’ or doesn’t know how to handle them correctly, it can be quite frustrating. To handle IFrames we need to use bespoke code which in turn will enable the developer to toggle between the main HTML page and the IFrame itself. Practise makes perfect — attempt the challenge for yourself. It’s fairly easy once you get the hang of it.
+- link "HIDDEN ELEMENTS Reveal and interact with hidden items Practice locating and interacting with hidden DOM elements using techniques like visibility toggling and JavaScript execution.":
+  - /url: Hidden-Elements/index.html
+  - heading "HIDDEN ELEMENTS" [level=1]
+  - heading "Reveal and interact with hidden items" [level=4]
+  - paragraph: Practice locating and interacting with hidden DOM elements using techniques like visibility toggling and JavaScript execution.
+- link "DATA, TABLES & BUTTON STATES Can you extract data to an Excel file? Practice capturing data from HTML tables and exporting it using Apache POI or similar libraries. Handle button states (enabled/disabled) dynamically!":
+  - /url: Data-Table/index.html
+  - heading "DATA, TABLES & BUTTON STATES" [level=1]
+  - heading "Can you extract data to an Excel file?" [level=4]
+  - paragraph: Practice capturing data from HTML tables and exporting it using Apache POI or similar libraries. Handle button states (enabled/disabled) dynamically!
+- 'link "AUTOCOMPLETE TEXTFIELD Searching for something specific? Use the autocomplete feature to simulate smart search. Try typing: Apple Avocado"':
+  - /url: Autocomplete-TextField/autocomplete-textfield.html
+  - heading "AUTOCOMPLETE TEXTFIELD" [level=1]
+  - heading "Searching for something specific?" [level=4]
+  - paragraph: "Use the autocomplete feature to simulate smart search. Try typing:"
+  - list:
+    - listitem:
+      - paragraph: Apple
+    - listitem:
+      - paragraph: Avocado
+- 'link "FILE UPLOAD Need to upload a specific file? Perform the following actions: Choose a file. Click on the ''Submit'' button."':
+  - /url: File-Upload/index.html
+  - heading "FILE UPLOAD" [level=1]
+  - heading "Need to upload a specific file?" [level=4]
+  - paragraph: "Perform the following actions:"
+  - list:
+    - listitem:
+      - paragraph: Choose a file.
+    - listitem:
+      - paragraph: Click on the 'Submit' button.
+- link "DATEPICKER Datepicker What date will you select? Select a day. Select a month. Select a year.":
+  - /url: Datepicker/index.html
+  - heading "DATEPICKER" [level=1]
+  - heading "Datepicker" [level=4]
+  - paragraph: What date will you select?
+  - list:
+    - listitem:
+      - paragraph: Select a day.
+    - listitem:
+      - paragraph: Select a month.
+    - listitem:
+      - paragraph: Select a year.
+- contentinfo:
+  - paragraph:
+    - text: © 2024 by Gianni Bruno (WebDriver University) |
+    - link "Automationteststore":
+      - /url: https://automationteststore.com/
+```
